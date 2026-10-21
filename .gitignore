@@ -1,0 +1,28 @@
+# Compiled binaries
+a.out
+*.out
+*.exe
+*.bin
+test
+
+# Object files
+*.o
+*.obj
+
+# Local input files
+in
+
+# Build directories
+bin/
+build/
+
+# Local study material
+Notebook/
+*.pdf
+
+# Debug files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
