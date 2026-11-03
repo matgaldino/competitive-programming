@@ -3,6 +3,7 @@ a.out
 *.out
 *.exe
 *.bin
+*.in
 test
 
 # Object files
